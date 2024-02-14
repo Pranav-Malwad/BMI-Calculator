@@ -1,0 +1,49 @@
+.input-holder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+
+}
+
+
+.w-input {
+    padding: 0.7rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    outline: none;
+    margin-top: 1rem;
+}
+
+.h-input {
+
+    padding: 0.7rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    outline: none;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.submit {
+    padding: 0.6rem;
+    border-radius: 0.2rem;
+    outline: none;
+    margin: 1rem;
+    cursor: pointer;
+    border: none;
+}
+
+.reset {
+
+    padding: 0.6rem;
+    border-radius: 0.2rem;
+    outline: none;
+    margin: 1rem;
+    cursor: pointer;
+    border: none;
+}
